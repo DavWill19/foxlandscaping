@@ -1,0 +1,42 @@
+{
+  "name": "foxlandscaping",
+  "version": "1.0.0",
+  "description": "landscaping website",
+  "main": "index.html",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "scripts": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "author": "Dev Williams",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavWill19/foxlandscaping.git"
+  },
+  "keywords": [
+    "landscaping",
+    "construction"
+  ],
+  "homepage": "https://github.com/DavWill19/foxlandscaping#readme"
+}
