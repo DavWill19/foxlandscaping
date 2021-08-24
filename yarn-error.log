@@ -1,0 +1,70 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\DavidWIlliams\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add emailjs-com
+
+PATH: 
+  C:\Users\DavidWIlliams\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\DavidWIlliams\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Program Files (x86)\Brackets\command;C:\Program Files\PostgreSQL\12\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\DavidWIlliams\AppData\Local\Microsoft\WindowsApps;C:\Users\DavidWIlliams\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DavidWIlliams\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\DavidWIlliams\Desktop\foxLandscaping\package.json: Unexpected token } in JSON at position 311
+      at JSON.parse (<anonymous>)
+      at C:\Users\DavidWIlliams\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\DavidWIlliams\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\DavidWIlliams\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "foxlandscaping",
+    "version": "1.0.0",
+    "description": "landscaping website",
+    "main": "index.html",
+    "dependencies": {
+      "@popperjs/core": "^2.9.2",
+      "animate.css": "^4.1.1",
+      "aos": "^2.3.4",
+      "bootstrap": "^4.5.2",
+      "bootstrap-social": "^5.1.1",
+      "font-awesome": "^4.7.0",
+    },
+    "devDependencies": {
+      "animate.css": "^4.1.1",
+      "aos": "^2.3.4",
+      "bootstrap": "^5.0.2",
+      "bootstrap-social": "^5.1.1",
+      "font-awesome": "^4.7.0",
+      "jquery": "^3.6.0",
+    },
+    "scripts": {
+      "bootstrap": "^4.5.2",
+      "bootstrap-social": "^5.1.1",
+      "font-awesome": "^4.7.0",
+      "jquery": "^3.6.0",
+      "popper.js": "^1.16.1"
+    },
+    "author": "Dev Williams",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DavWill19/foxlandscaping.git"
+    },
+    "keywords": [
+      "landscaping",
+      "construction"
+    ],
+    "homepage": "https://github.com/DavWill19/foxlandscaping#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
